@@ -1,0 +1,6 @@
+flask==1.1.4
+Flask-RESTful==0.3.5
+hypothesis==6.24.5
+pytest==6.2.5
+Flask-JWT==0.3.2
+Flask-SQLAlchemy==2.5.1
